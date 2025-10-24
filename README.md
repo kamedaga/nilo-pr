@@ -1,4 +1,5 @@
-# nilo-pr（Pixel Representation）"視覚構造を自然言語的に表現する、GUIの座標・形状・スタイルに特化した言語”
+# nilo-pr（Pixel Representation）
+## "視覚構造を自然言語的に表現する、GUIの座標・形状・スタイルに特化した言語、エンジン”
 niloのための生成AIに正確なGUIを認識させることに特化した曖昧な言語。
 prファイルの拡張子は.nlpr
 ## prエンジンとは？
